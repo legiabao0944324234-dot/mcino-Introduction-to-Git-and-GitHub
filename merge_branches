@@ -1,6 +1,4 @@
-Updating ad95b0a..a963361
+Updating ab996f4..df26cff
 Fast-forward
- forked-repo        | 336 +++++++++++++++++++++++++++++++++++++++++++++++++++++
- simple-interest.sh |   1 +
- 2 files changed, 337 insertions(+)
- create mode 100644 forked-repo
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
